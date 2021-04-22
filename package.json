@@ -1,0 +1,13 @@
+{
+  "name": "coding-test-simulate-a-robot",
+  "version": "1.0.0",
+  "main": "robot.js",
+  "author": "Szymon Krysztofiak",
+  "license": "MIT",
+  "scripts": {
+    "execute": "run-func robot.js execute"
+  },
+  "dependencies": {
+    "run-func": "^1.0.5"
+  }
+}
